@@ -1,3 +1,4 @@
+package day4;
 import java.util.Random;
 
 public class Token {
